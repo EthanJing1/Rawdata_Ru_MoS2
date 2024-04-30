@@ -1,0 +1,6 @@
+#MAP AUTO_CB       : 2
+#MAP CONTRAST      : 0.000000
+#MAP GAMMA         : 0.000000
+#MAP BRIGHTNESS    : 0.000000
+#MAP OVERLAY       : 0
+#FILTER COUNT      : 0
