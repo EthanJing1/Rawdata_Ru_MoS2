@@ -1,1 +1,3 @@
-this folder contains the globe analysis code, loading the data in Figure3 can get the result
+this folder contains the globe analysis code, loading the data in Figure3 can get the result, we also include the data here as:
+'GATMD.CSV' for tr-ESFG raw data for pristine Mos2
+'GARu.CSV' for tr-ESSFG raw data for Ru-MoS2
