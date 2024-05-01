@@ -1,1 +1,3 @@
-transient signal is in csv file
+transient signal is in csv file:
+'PristineTMD.csv' for tr-ESFG raw data of pristine Mos2
+'RuTMD.csv' for tr-ESFG raw data of Ru-Mos2
