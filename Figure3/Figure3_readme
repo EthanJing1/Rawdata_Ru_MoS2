@@ -1,3 +1,4 @@
 transient signal is in csv file:
 'PristineTMD.csv' for tr-ESFG raw data of pristine Mos2
 'RuTMD.csv' for tr-ESFG raw data of Ru-Mos2
+basically, this is the pump probe data, the first colomn is the photon energy, the first row is the time-delay between pump and probe pulse 
